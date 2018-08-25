@@ -4,7 +4,7 @@
 
 		<?php
 		require_once ("functions/functions.php"); 
-		$title = "Расписание поездов";
+		$title = "Новое расписание поездов";
 		require_once ("blocks/head.php"); 
 		$trains = getTrains();
 		?>
